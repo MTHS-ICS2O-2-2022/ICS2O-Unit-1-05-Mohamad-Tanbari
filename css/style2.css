@@ -1,3 +1,7 @@
+/* Created by: Mr. Coxall
+* Created on: Sep 2020
+* This file contains the CSS for index2.html
+*/
 /* Due to error in MDL : https://github.com/google/material-design-lite/issues/5281
 */
 .mdl-ripple {
@@ -9,4 +13,8 @@
   padding-left: 15pt;
   padding-right: 15pt;
   padding-top: 15pt;
+}
+
+.demo-list-icon {
+  width: 300px;
 }
